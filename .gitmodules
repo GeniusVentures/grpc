@@ -1,6 +1,7 @@
 [submodule "third_party/abseil-cpp"]
 	path = third_party/abseil-cpp
-	url = https://github.com/abseil/abseil-cpp.git
+	url = ../abseil-cpp
+	branch = for-grpc
 [submodule "third_party/benchmark"]
 	path = third_party/benchmark
 	url = https://github.com/google/benchmark
